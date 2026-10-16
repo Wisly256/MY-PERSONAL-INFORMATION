@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    background-color: white;
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: fantasy;
+}
+
+a:hover{
+    background-color: black;
+    border: 2px solid blue;
+    color: aqua;
+    font-size: 20px;
+
+}
+
+.class-heading:hover {
+    text-decoration: underline;
+    color: darkgreen;
+
+
+}
